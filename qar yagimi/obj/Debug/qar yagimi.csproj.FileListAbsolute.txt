@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\bin\Debug\qar yagimi.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\bin\Debug\qar yagimi.exe
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\bin\Debug\qar yagimi.pdb
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\obj\Debug\qar yagimi.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\obj\Debug\qar_yagimi.Form1.resources
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\obj\Debug\qar_yagimi.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\obj\Debug\qar yagimi.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\obj\Debug\qar yagimi.exe
+C:\Users\user\documents\visual studio 2017\Projects\txtEditor\qar yagimi\obj\Debug\qar yagimi.pdb
